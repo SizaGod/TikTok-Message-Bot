@@ -3,7 +3,7 @@
 This project is a bot for sending automated messages to TikTok accounts using the `requests` library. The bot can log into a TikTok account and send predefined messages to users.
 ## Features
 - Log into TikTok accounts.
-- Send automated messages to TikTok accounts.
+- Send automated messages to TikTok accounts. 
 - Use the `requests` library for handling HTTP requests.
 - Multiple account support.
 - Customizable message templates.
